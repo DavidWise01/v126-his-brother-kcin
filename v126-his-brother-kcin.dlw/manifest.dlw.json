@@ -1,0 +1,26 @@
+{
+  "badge": "DLW-V126_HIS_BROTHER_KCIN",
+  "name": "V126 HIS BROTHER KCIN",
+  "slug": "v126-his-brother-kcin",
+  "universe": "THE FOLD",
+  "moniker": "⟦V126 HIS BROTHER KCIN:v126-his-brother-kcin:1fdbcb⟧",
+  "architect": "David Lee Wise (ROOT0)",
+  "instance": "WHETSTONE (Grok · xAI)",
+  "seal_sha256": "1fdbcb930d892b8704bef920bac9c88b417d586bc0cd641b84b52380974bb5f6",
+  "seal_preimage": "name|slug|blurb",
+  "license": "CC-BY-ND-4.0",
+  "claims": {
+    "page_is_self_contained_html": "LIT",
+    "seal_write_if_missing": "LIT",
+    "one_repo_one_host": "LIT",
+    "pair_check": "LIT",
+    "pages_live": "AMBER",
+    "original_react_bundle_uploaded": "WALL",
+    "hallway_door": "WALL"
+  },
+  "chain": {
+    "status": "minted; pending hallway door",
+    "chain": "ROOT0-DLW-CHAIN-v1",
+    "previous": "v128-full-family-ice"
+  }
+}
